@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.df</groupId>
-	<artifactId>df_news</artifactId>
+	<artifactId>Blogger</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>df_news Maven Webapp</name>
+	<name>Blogger Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<!-- spring版本号 -->
@@ -21,6 +21,7 @@
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>3.8.1</version>
+			<scope>test</scope>
 		</dependency>
 		<!--测试相关依赖 begin -->
 		<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core -->
