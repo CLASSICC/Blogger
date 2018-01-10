@@ -215,12 +215,6 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.10</version>
-		</dependency>
-
 	</dependencies>
 	<build>
 		<finalName>df_news</finalName>
